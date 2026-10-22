@@ -12,9 +12,9 @@ This project is a fixture rather than a complete commerce implementation. The â€
 
 ## Services
 
-- Monthly candle subscriptions
-- Seasonal scent curation
-- Gift subscription packages
+- Website design
+- SEO audits
+- Monthly care plans
 
 ## Installation
 
