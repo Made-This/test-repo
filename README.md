@@ -156,3 +156,4 @@ Before opening a review, inspect the diff carefully. Check that price edits sync
 Write commit messages and review descriptions that name the user-visible result and the verification performed, such as “Update annual plan copy; manually verified the pricing toggle.” Keep each contribution easy to revert. Respect existing changes from other contributors and avoid reformatting untouched files. A well-scoped static-site contribution is one that a future maintainer can understand, test with a simple local server, and deploy without discovering hidden setup requirements.
 
 e2e issue-1929 push-only check
+e2e issue-1929 push-only check 2
