@@ -10,6 +10,12 @@ Shared presentation belongs in `css/site.css`. The stylesheet establishes the se
 
 This project is a fixture rather than a complete commerce implementation. The “Choose” links intentionally return to the home page, and no purchase, subscription, account, fulfillment, or payment behavior exists. Treat visible price copy as demonstration content unless a separate task adds a real, platform-approved checkout path. Keep changes small and explicit: preserve root-relative asset paths, maintain semantic HTML, and test the home and pricing URLs after editing. The result should remain understandable to someone reading the repository for the first time, which is more valuable here than adding a complex toolchain for a few static files.
 
+## Services
+
+- Monthly candle subscriptions
+- Seasonal scent curation
+- Gift subscription packages
+
 ## Installation
 
 Installation for Juniper Candle Co. means obtaining the repository and choosing a static HTTP server for local review. There are no runtime packages, lockfiles, package-manager scripts, or compilation steps in this fixture. Do not start by running `npm install`: the repository does not include a `package.json`, and adding an arbitrary Node dependency would obscure the simple deployment model. A modern browser and a tool capable of serving a directory over HTTP are sufficient. Git is recommended so that you can create an isolated change, inspect the diff, and keep track of the exact files you altered.
